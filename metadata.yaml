@@ -1,0 +1,40 @@
+_repo: James-Nasmyth-Engineer-An-Autobiography_476
+contributor:
+  creator:
+    editor:
+      agent_name: Smiles, Samuel
+      birthdate: 1812
+      deathdate: 1904
+      gutenberg_agent_id: '224'
+      url: http://www.gutenberg.org/2009/agents/224
+      wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+creator:
+  author:
+    agent_name: Nasmyth, James
+    aliases:
+    - Nasmyth, James Hall
+    - Nesmyth, James
+    - Nasmith, James
+    - Naesmyth, James
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '255'
+    url: http://www.gutenberg.org/2009/agents/255
+    wikipedia: http://en.wikipedia.org/wiki/James_Nasmyth
+description: Offers a digitally printed version of the 1883 autobiography of James
+  Nasmyth, the Scottish scientist and inventor who is remembered for his contributions
+  to the the machine tool industry and his invention of the steam hammer.
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Nasmyth, James, 1808-1890'
+- !lcsh 'Engineers -- Great Britain -- Biography'
+title: 'James Nasmyth, Engineer: An Autobiography'
+url: http://www.gutenberg.org/ebooks/476
