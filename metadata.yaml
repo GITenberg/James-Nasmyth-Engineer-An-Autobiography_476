@@ -1,5 +1,5 @@
 _repo: James-Nasmyth-Engineer-An-Autobiography_476
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       gutenberg_agent_id: '224'
       url: http://www.gutenberg.org/2009/agents/224
       wikipedia: http://en.wikipedia.org/wiki/Samuel_Smiles
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nasmyth, James
@@ -25,6 +28,8 @@ creator:
 description: Offers a digitally printed version of the 1883 autobiography of James
   Nasmyth, the Scottish scientist and inventor who is remembered for his contributions
   to the the machine tool industry and his invention of the steam hammer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/476#James-Nasmyth-Engineer-An-Autobiography
 gutenberg_issued: '1996-03-01'
 gutenberg_type: Text
 identifiers:
