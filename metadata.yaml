@@ -1,5 +1,5 @@
 _repo: James-Nasmyth-Engineer-An-Autobiography_476
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -42,5 +42,6 @@ subjects:
 - !lcc 'TJ'
 - !lcsh 'Nasmyth, James, 1808-1890'
 - !lcsh 'Engineers -- Great Britain -- Biography'
+- GITenberg
 title: 'James Nasmyth, Engineer: An Autobiography'
 url: http://www.gutenberg.org/ebooks/476
